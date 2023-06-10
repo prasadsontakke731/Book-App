@@ -1,0 +1,6 @@
+.book-show {
+  border: 5px solid rgb(6, 249, 132);
+  border-radius: 10px;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.6);
+  background-color: #77ff00;
+}
